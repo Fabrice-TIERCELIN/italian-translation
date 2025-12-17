@@ -1,7 +1,7 @@
 {	
 	"name" : "Italian translation",
 	"description" : "Italian translation of Heroes of Might and Magic III: Complete Edition. Most of the translation is automatic. Please create a new issue here: https://github.com/vcmi-mods/italian-translation/issues/new",
-	"version" : "1.0.4",
+	"version" : "1.0.5",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/italian-translation",
 	"modType" : "Translation",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{
+		"1.0.5" : [ "Main menu icons" ],
 		"1.0.4" : [ "AI generated translation update by Manfred" ],
 		"1.0.3" : [ "added chronicles" ],
 		"1.0.2" : [ "Fixed adventure event strings" ],
